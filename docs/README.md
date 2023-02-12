@@ -3,8 +3,8 @@
 |                               	|    	|                                  	|    	|                      	|   	|
 |-------------------------------	|----	|----------------------------------	|----	|----------------------	|---	|
 | Manual brightnes              	|  ✅ 	| Battery lifetime > 24h from 100% 	|  ✅ 	| Automatic brightness  |  ✖️  	|
-| No reboot needed for 1 week      	|  ❔	| Fingerprint reader  	                |  ✖️✖️   | Waydroid		|  ✅	|
-| Torchlight                    	|  ✅	| Boot into UI                     	|  ✅ 	| GPS                 	|  ✖️  	|
+| No reboot needed for 1 week      	|  ✅	| Fingerprint reader  	                |  ✖️✖️   | Waydroid		|  ✅	|
+| Torchlight                    	|  ✅	| Boot into UI                     	|  ✅ 	| GPS                 	| ✖️ ✖️  	|
 | Vibration                     	|  ✅ 	| Hardware video playback          	|  ✅ 	| Proximity          	|  ✅ 	|
 | Flashlight                    	|  ✅	| Anbox patches                    	|  ✅ 	| Rotation            	|  ✅ 	|
 | Photo                         	|  ✅	| AppArmor patches                 	|  ✅ 	| Touchscreen          	|  ✅ 	|
@@ -36,6 +36,9 @@
 * Extract the archive
 * run the `flash_all` script
 * Boot to fastboot and let the script flash everything.
+
+## UBports Installer
+- Alternatively the UBports installer can also be used to install Droidian.
 
 ## Notes
 - The default password is `1234`.
